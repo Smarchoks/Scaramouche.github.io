@@ -1,0 +1,35 @@
+.about {
+  margin: 30px;
+  color: #333;
+  background-color: #fff;
+
+  font-size: 50px;
+}
+.inf {
+  background-color: #7c7272;
+  color: #ffffff;
+  height: 400px;
+}
+.x {
+  color: #990000;
+  padding-bottom: 30px;
+}
+.hair {
+  background-size: cover;
+  background-image: url(../../Img/bbb.PNG);
+  height: 320px;
+  width: 270px;
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+}
+.perenos {
+  text-align: left;
+  line-height: 125%;
+  width: 350px;
+  height: 1px;
+}
+.container1 {
+  margin: 0 auto;
+}
