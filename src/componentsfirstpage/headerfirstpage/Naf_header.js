@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom/dist";
 import "./Naf_header.css";
 
 export default function HeaderNav() {
@@ -15,7 +16,7 @@ export default function HeaderNav() {
             </li>
             <li>
               <a href="/" className="defolt">
-                {" "}
+                asd
               </a>
             </li>
             <li>
@@ -24,9 +25,9 @@ export default function HeaderNav() {
               </a>
             </li>
             <li>
-              <a href="#" className="defolt">
+              <Link to="/price" className="defolt">
                 Цены
-              </a>
+              </Link>
             </li>
             <li>
               <a href="#" className="defolt">
