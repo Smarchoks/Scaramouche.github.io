@@ -13,6 +13,7 @@ export default function Normal() {
           <div className="inf">
             <h3> Opium</h3>
             <p className="x">✘✘✘</p>
+
             <p className="perenos">
               Это место, где ваша красота превращается в произведение искусства.
               Наши опытные стилисты помогут вам подчеркнуть вашу

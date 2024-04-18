@@ -27,17 +27,17 @@ h5,
 h6 {
 }
 header {
-  background-image: url(../../Img/Naf.jpeg);
+  background-image: url(../../Img/Yzbekkkkkkk.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   width: 100%;
   height: 100%;
   line-height: 1;
   font-size: 16px;
   color: azure;
   padding-top: 1px;
-  height: 700px;
+  height: 800px;
 }
 ._conteiner {
   padding: 0 15px;
@@ -68,6 +68,7 @@ header {
   flex-wrap: wrap;
   display: flex;
   list-style: none;
+  align-items: center;
 }
 .navigation li a {
   text-decoration: none;
