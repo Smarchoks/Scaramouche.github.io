@@ -1,0 +1,39 @@
+.barber_title {
+  font-size: 96px;
+  line-height: 0.92708333;
+  font-family: playfair display, serif;
+  font-weight: 700;
+  color: #4f4f4f;
+  font-style: normal;
+  margin: 40px;
+  text-align: center;
+}
+
+.cart {
+  width: 370px;
+  padding: 25px;
+}
+
+.container_barber {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.cart_title {
+  margin: 0px 0px 21px;
+}
+
+.cart_img {
+  margin-bottom: 35px;
+}
+
+.x_our_barbers {
+  margin-bottom: 23px;
+}
+
+.container_cart {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

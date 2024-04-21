@@ -1,15 +1,17 @@
 import "./App.css";
 import Headerfirstpage from "../src/componentsfirstpage/headerfirstpage/header";
 import Normal from "./componentsfirstpage/about_us/baout";
-import Price from "./componentsfirstpage/Price/price";
-
+import Work_time from "./componentsfirstpage/Work_time/work";
+import Reservation from "./componentsfirstpage/Reservation/reserv";
+import Our_barbers from "../src/componentsfirstpage/Our_barbers/barber";
 
 export default function App() {
   return (
     <div className="App">
       <Headerfirstpage />
       <Normal />
-      <Price />
+      <Work_time />
+      <Reservation />
     </div>
   );
 }

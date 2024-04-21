@@ -14,15 +14,11 @@ export default function HeaderNav() {
                 Главная
               </a>
             </li>
+
             <li>
-              <a href="/" className="defolt">
-                asd
-              </a>
-            </li>
-            <li>
-              <a href="#" className="defolt">
+              <Link to="/Our_barbers" className="defolt">
                 Наши Стилисты
-              </a>
+              </Link>
             </li>
             <li>
               <Link to="/price" className="defolt">

@@ -1,0 +1,36 @@
+.container_work {
+  background-image: url(../../Img/changedSuckMyDChamged_1.png);
+
+  background-repeat: no-repeat;
+
+  display: flex;
+  justify-content: flex-end;
+  height: 700px;
+  width: 100%;
+  background-size: cover;
+  align-items: center;
+}
+
+.cost_a {
+  width: 900px;
+  height: 400px;
+  background-color: #232323;
+  color: #ffffff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.text_3 li {
+  display: flex;
+  flex-direction: row;
+  line-height: 170%;
+  font-size: 40px;
+  background-color: #232323;
+}
+.text_3 {
+  margin: 80px 280px 80px 60px;
+}
+.text {
+  font-size: 35px;
+  margin: 20px;
+}

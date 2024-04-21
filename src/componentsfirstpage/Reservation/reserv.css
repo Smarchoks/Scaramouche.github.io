@@ -1,0 +1,19 @@
+.container_reservbg {
+  background-color: #000000;
+  margin: 0px 0px 49px;
+  margin: 77px 0px 24px;
+}
+.www {
+  color: aliceblue;
+  margin: 0px 0px 5px;
+}
+.make {
+  color: #ffffff;
+  margin: 0px 0px 38px;
+}
+
+.ContactInput {
+  border: solid 4px gray;
+  margin: 10px;
+  color: #ffffff;
+}

@@ -1,27 +1,32 @@
 import "./price.css";
+import Headerfirstpage from "../headerfirstpage/Naf_header";
 
 export default function Price() {
   return (
-    <div className="container_price">
-      <h1>Prices & Services</h1>
-      <div className="price-sq">
-        <div className="ss">
-          <div className="pos">
-            <ul>
-              <li> • Men's Haircut (Regular)</li>
-              <li>• $18,00Taper Haircut & Lineup</li>
-              <li> • $5,00Head Lineup Only</li>
-              <li>• $5,00Men's Head Shave</li>
-              <li>• $15,00Men's Haircut (Regular)</li>
-              <li>• $18,00Taper Haircut & Lineup</li>
-              <li>• $5,00Head Lineup Only</li>
-              <li>• $5,00Men's Head Shave </li>
-              <li> </li>
-              <li> </li>
-            </ul>
+    <>
+      <Headerfirstpage />
+
+      <div className="container_price">
+        <h1 className="price_title">Prices & Services</h1>
+        <div className="price_wrapper">
+          <div className="price-sq">
+            <div className="ss">
+              <div className="pos">
+                <ul>
+                  <li className="zxc_c zxc"> Men's Haircut </li>
+                  <li className="zxc">• $36,00Taper Haircut & Lineup</li>
+                  <li className="zxc"> • $10,00Head Lineup Only</li>
+                  <li className="zxc">• $10,00Men's Head Shave</li>
+                  <li className="zxc">• $30,00Men's Haircut </li>
+                  <li className="zxc">• $36,00Taper Haircut & Lineup</li>
+                  <li className="zxc">• $10,00Head Lineup Only</li>
+                  <li className="zxc">• $10,00Men's Head Shave </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }

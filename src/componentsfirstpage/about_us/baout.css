@@ -1,6 +1,6 @@
 .about {
   margin: 30px;
-  color: #333;
+
   background-color: #fff;
 
   font-size: 50px;
@@ -29,7 +29,13 @@
   line-height: 125%;
   width: 350px;
   height: 1px;
+  margin: 60px;
+  letter-spacing: 1.5px;
 }
 .container1 {
   margin: 0 auto;
+}
+
+.bip {
+  color: #333;
 }
