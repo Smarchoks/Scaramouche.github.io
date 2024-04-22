@@ -38,6 +38,9 @@ export default function Reservation() {
           </div>
         </div>
       </div>
+      <div className="button_reserv">
+          <button type="submit">Отправит</button>
+      </div>
     </div>
   );
 }

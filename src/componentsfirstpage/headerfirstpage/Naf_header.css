@@ -6,8 +6,10 @@
   border: 0;
   font-family: sans-serif;
   box-sizing: border-box;
-  background-color: #000000;
   color: white;
+}
+body {
+  background-color: #000000;
 }
 a {
   text-decoration: none;

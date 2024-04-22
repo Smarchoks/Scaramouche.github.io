@@ -15,5 +15,22 @@
 .ContactInput {
   border: solid 4px gray;
   margin: 10px;
-  color: #ffffff;
+  color: #000000;
+}
+
+.ContactInput_button{
+  width: 100px;
+  height: 25px;
+}
+
+.button_reserv{
+ 
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676D7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+  
 }
