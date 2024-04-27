@@ -4,6 +4,7 @@ import Normal from "./componentsfirstpage/about_us/baout";
 import Work_time from "./componentsfirstpage/Work_time/work";
 import Reservation from "./componentsfirstpage/Reservation/reserv";
 import Our_barbers from "../src/componentsfirstpage/Our_barbers/barber";
+import Gallery from "./componentsfirstpage/Gallery/gallery";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
       <Normal />
       <Work_time />
       <Reservation />
+      <Gallery />
     </div>
   );
 }

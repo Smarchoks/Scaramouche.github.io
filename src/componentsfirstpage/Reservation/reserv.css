@@ -13,7 +13,8 @@
 }
 
 .ContactInput {
-  border: solid 4px gray;
+  border: solid 2px gray;
   margin: 10px;
   color: #ffffff;
+  padding: 10px;
 }
