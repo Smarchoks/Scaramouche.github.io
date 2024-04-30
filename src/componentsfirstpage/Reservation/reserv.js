@@ -36,6 +36,11 @@ export default function Reservation() {
               placeholder="Введите ваш Email"
             />
           </div>
+          <div className="cont_ooop">
+            <button className="ooop" type="send">
+              {"Send "}
+            </button>
+          </div>
         </div>
       </div>
     </div>

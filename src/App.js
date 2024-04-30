@@ -5,6 +5,7 @@ import Work_time from "./componentsfirstpage/Work_time/work";
 import Reservation from "./componentsfirstpage/Reservation/reserv";
 import Our_barbers from "../src/componentsfirstpage/Our_barbers/barber";
 import Gallery from "./componentsfirstpage/Gallery/gallery";
+import Basement from "./componentsfirstpage/Basement/basement";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <Work_time />
       <Reservation />
       <Gallery />
+      <Basement />
     </div>
   );
 }
