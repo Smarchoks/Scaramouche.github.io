@@ -6,7 +6,6 @@
   font-size: 50px;
 }
 .inf {
-  background-color: #7c7272;
   color: #ffffff;
   height: 400px;
 }
@@ -28,9 +27,9 @@
   text-align: left;
   line-height: 125%;
   width: 350px;
-  height: 1px;
-  margin: 60px;
+  padding: 10px;
   letter-spacing: 1.5px;
+  background-color: #7c7272;
 }
 .container1 {
   margin: 0 auto;
@@ -38,4 +37,5 @@
 
 .bip {
   color: #333;
+  background-color: #000000;
 }

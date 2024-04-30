@@ -6,6 +6,13 @@
   border: 0;
   font-family: sans-serif;
   box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  color: white;
+>>>>>>> 296d28382843c3f40954f58552e040a6ce2cfe57
+}
+body {
+  background-color: #000000;
 }
 a {
   text-decoration: none;
