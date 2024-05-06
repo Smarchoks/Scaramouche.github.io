@@ -19,7 +19,7 @@ export default function Our_barbers() {
             <div className="cart_content">
               <h3 className="cart_title">Sam Adams</h3>
               <p className="x_our_barbers">✘</p>
-              <p>
+              <p className="Misha">
                 Sam has been in the hairdressing industry for over 10 years. His
                 career started in his home country, Ireland.
               </p>
@@ -32,7 +32,7 @@ export default function Our_barbers() {
             <div className="cart_content">
               <h3 className="cart_title">Dan Tomson</h3>
               <p className="x_our_barbers">✘</p>
-              <p>
+              <p className="Misha">
                 Dan is very passionate about his work from his razor sharp
                 haircuts to mastered traditional wet shaves, which he has become
                 very popular for.
@@ -46,7 +46,7 @@ export default function Our_barbers() {
             <div className="cart_content">
               <h3 className="cart_title">Peter Philips</h3>
               <p className="x_our_barbers">✘</p>
-              <p>
+              <p className="Misha">
                 Peter is well versed in both Classic hairdressing. He has great
                 communication and understanding of clients’ needs and
                 requirements.

@@ -1,0 +1,62 @@
+.content_about_us {
+  background-color: #232323;
+  padding: 20px;
+}
+.we_are {
+  color: #333;
+  font-size: xx-large;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.content_what_say {
+  margin-bottom: 20px;
+  margin-left: 70px;
+  margin-right: 50px;
+}
+
+.content_model {
+  margin-left: 70px;
+  margin-right: 50px;
+}
+
+.content_about_us {
+  position: relative;
+  height: 100%;
+  width: 700px;
+}
+.popaa {
+  font-size: xx-large;
+  color: #ffffff;
+}
+
+.xxx {
+  margin-top: 1px;
+  margin-bottom: 20px;
+  color: #990000;
+}
+
+.model {
+  color: white;
+}
+
+.about_disc {
+  color: #929292;
+}
+
+.model_disc {
+  color: #929292;
+}
+
+.tutu {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 650px;
+  right: 0;
+  bottom: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+

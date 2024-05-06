@@ -1,21 +1,21 @@
 .container_basement {
   display: flex;
-  background-color: #fff;
+  background-color: #000000;
   margin: 20px;
   border-radius: 2px;
   padding: 20px;
-}
-
-.contact {
   color: #000;
 }
 
-.number {
-  color: #411e1e;
+.contact {
+  color: #3f3d3d;
 }
 
-.icon {
+.number {
+  color: #3f3d3d;
 }
+
+
 
 .name_contact {
   margin: 20px;
@@ -23,9 +23,29 @@
 
 .name_yarick {
   margin: 20px;
+  color: #3f3d3d;
 }
 
 .name_icon {
   margin: 20px;
+}
+
+.navigation_yarick {
+  margin-left: 80px;
+}
+
+.egor {
+  color: #3f3d3d;
+}
+
+.size_text {
+  font-size: small;
+  text-align: left;
+
+}
+
+.icon {
+  color: #3f3d3d;
+  margin-left: 50px;
 }
 

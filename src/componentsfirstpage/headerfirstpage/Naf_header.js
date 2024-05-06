@@ -26,9 +26,9 @@ export default function HeaderNav() {
               </Link>
             </li>
             <li>
-              <a href="#" className="defolt">
+              <Link to="/About_us" className="defolt">
                 О нас
-              </a>
+              </Link>
             </li>
             <li>
               <a href="#" className="krug">

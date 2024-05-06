@@ -22,6 +22,7 @@
 
 .cart_title {
   margin: 0px 0px 21px;
+  color: #ffffff;
 }
 
 .cart_img {
@@ -30,6 +31,7 @@
 
 .x_our_barbers {
   margin-bottom: 23px;
+  color: #ffffff;
 }
 
 .container_cart {
@@ -39,3 +41,6 @@
   justify-content: center;
 }
 
+.Misha {
+  color: #ffffff;
+}
