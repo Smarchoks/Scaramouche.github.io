@@ -60,3 +60,11 @@
   transform: translateY(-50%);
 }
 
+@media screen and (max-width: 1050px) {
+  .container_about_us{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  }
+}

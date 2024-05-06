@@ -55,10 +55,10 @@ header {
 .menu {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   min-height: 147px;
 }
 .nav_menu {
-  margin: 0 0 0 100px;
 }
 .logo {
   height: 200px;
@@ -66,16 +66,17 @@ header {
   background-image: url(../../Img/logo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 .menu_blocks {
-  margin: 0 5%;
-  width: 100%;
 }
 .navigation {
   flex-wrap: wrap;
   display: flex;
   list-style: none;
   align-items: center;
+  justify-content: center;
+  gap: 20px;
 }
 .navigation li a {
   text-decoration: none;
@@ -90,7 +91,6 @@ header {
   font-weight: 650;
 }
 .navigation li:not(:last-child) {
-  margin: 0 21px 0 0;
 }
 .krug {
   border: 2px solid black;
@@ -136,4 +136,10 @@ header {
 }
 .krug2:hover {
   background: black;
+}
+
+@media screen and (max-width: 560px) {
+  .menu {
+    flex-direction: column;
+  }
 }
