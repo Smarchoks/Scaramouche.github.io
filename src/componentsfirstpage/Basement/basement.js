@@ -20,7 +20,7 @@ export default function Basement() {
         </ul>
       </div>
       <div className="icon">
-        <h1 className="name_icon">Иконки</h1>
+        <h1 className="name_icon">Поделиться</h1>
         <div className="icon_div">
           <TelegramIcon />
           <TwitterIcon />
