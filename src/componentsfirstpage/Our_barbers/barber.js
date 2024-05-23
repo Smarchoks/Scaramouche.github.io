@@ -3,6 +3,7 @@ import platina from "../../Img/Platina.jpg";
 import lovv66 from "../../Img/lovv66.jpg";
 import boul from "../../Img/boul.jpg";
 import Headerfirstpage from "../headerfirstpage/Naf_header";
+import Basement from "../Basement/basement";
 
 export default function Our_barbers() {
   return (
@@ -55,6 +56,7 @@ export default function Our_barbers() {
           </div>
         </div>
       </div>
+      <Basement />
     </>
   );
 }

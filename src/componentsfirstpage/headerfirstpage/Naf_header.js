@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom/dist";
 import "./Naf_header.css";
 
+
 export default function HeaderNav() {
   return (
     <div className="menu _conteiner">
@@ -31,9 +32,9 @@ export default function HeaderNav() {
               </Link>
             </li>
             <li>
-              <a href="#" className="krug">
+              <Link to="/Contact_us" className="krug">
                 Связаться с нами
-              </a>
+              </Link>
             </li>
           </ul>
         </nav>

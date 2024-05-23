@@ -1,5 +1,6 @@
 import "./price.css";
 import Headerfirstpage from "../headerfirstpage/Naf_header";
+import Basement from "../Basement/basement";
 
 export default function Price() {
   return (
@@ -27,6 +28,7 @@ export default function Price() {
           </div>
         </div>
       </div>
+      <Basement />
     </>
   );
 }

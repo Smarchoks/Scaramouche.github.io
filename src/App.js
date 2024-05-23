@@ -7,7 +7,7 @@ import Our_barbers from "../src/componentsfirstpage/Our_barbers/barber";
 import Gallery from "./componentsfirstpage/Gallery/gallery";
 import Basement from "./componentsfirstpage/Basement/basement";
 import About_us from "./componentsfirstpage/Adout_us/about";
-
+import Contact_us from "./componentsfirstpage/Contact_us/ContactUsPage";
 
 export default function App() {
   return (

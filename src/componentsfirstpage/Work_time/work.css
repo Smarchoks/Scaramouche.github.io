@@ -33,11 +33,21 @@
   font-size: 35px;
   margin: 20px;
   background-color: #000000;
-
 }
 
 @media screen and (max-width: 700px) {
   .cost_a {
     flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .text {
+    font-size: 14px;
+    
+  }
+  .cost_a {
+    padding: 20px;
+    
   }
 }

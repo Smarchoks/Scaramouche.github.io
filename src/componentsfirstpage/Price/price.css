@@ -49,3 +49,9 @@
 .zxc_c {
   font-weight: 900;
 }
+
+@media screen and (max-width: 500px) {
+  .container_price {
+    padding: 20px;
+  }
+}

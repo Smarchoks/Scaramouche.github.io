@@ -35,7 +35,7 @@ export default function About_us() {
           I have taken my 3 yr old son for his first men's haircut and now I'm glad he has such a fantastic look. I recommended any of the barbers for service and pride in their work. I believe my son would never be allowed to leave the chair without a really handsome cut.
           </p>
           </div>
-          <div>
+          <div className="photo_dude">
             <img src={tutu} className="tutu"></img>
           </div>
         </div>
